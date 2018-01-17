@@ -1,19 +1,14 @@
 #BlueJ class context
 comment0.params=row
 comment0.target=SuccessCalculator(java.lang.String[])
-comment0.text=\n\ Constructor\ for\ a\ Stop,\ Question,\ &\ Frisk\ report.\n\ \n\ @param\ row\ An\ array\ of\ Strings\ that\ represents\ a\ SINGLE\ ROW\ of\ a\ \n\ Stop,\ Question,\ &\ Frisk\ database.\ Each\ String\ in\ the\ array\ is\ a\ SIGNLE\ \n\ VALUE\ of\ a\ single\ column\ of\ the\ database.\ See\ the\ Stop,\ Question,\ &\n\ Frisk\ data\ specification\ to\ determine\ which\ index\ in\ the\ String\ \n\ corresponds\ to\ which\ column\ in\ the\ data.\n
 comment1.params=
 comment1.target=java.lang.String\ getCohort()
-comment1.text=\n\ Accessor\ for\ x-coordinate\ of\ a\ Stop,\ Question,\ &\ Frisk\ report.\n\ \n\ @return\ the\ x-coordinate\ of\ the\ Stop,\ Question,\ &\ Frisk\ report.\n
 comment2.params=
 comment2.target=double\ getGradRate()
-comment2.text=\n\ Accessor\ for\ y-coordinate\ of\ a\ Stop,\ Question,\ &\ Frisk\ report.\n\ \n\ @return\ the\ y-coordinate\ of\ the\ Stop\ and\ Frisk\ data\ point.\n
 comment3.params=
 comment3.target=java.lang.String\ getBorough()
 comment4.params=
 comment4.target=java.lang.String\ toString()
-comment4.text=\n\ Returns\ a\ String\ representation\ of\ Stop,\ Question,\ &\ Frisk\ report.\ \n
 comment5.params=args
 comment5.target=void\ main(java.lang.String[])
-comment5.text=\n\ Quick\ test\ of\ methods\ on\ SQFReport\n
 numComments=6
